@@ -1,0 +1,77 @@
+{
+  "appointments": [
+    {
+      "id": "104",
+      "patientName": "Ramesh",
+      "date": "2018-10-25T10:03:35.980Z",
+      "consultation": "Lab Test"
+    },
+    {
+      "id": "1",
+      "patientName": "Suresh",
+      "date": "2018-12-31T12:59",
+      "consultation": "Lab Test"
+    },
+    {
+      "id": "Nq1nYc3",
+      "patientName": "",
+      "date": "2018-10-25T11:23:56.467Z",
+      "consultation": ""
+    },
+    {
+      "id": "9n~2D_M",
+      "patientName": "",
+      "date": "2018-10-25T11:27:28.596Z",
+      "consultation": ""
+    }
+  ],
+  "history": [
+    {
+      "id": 201,
+      "transDate": "2018-10-10",
+      "transAmount": 450.19,
+      "description": "hb1c test"
+    },
+    {
+      "id": 202,
+      "transDate": "2018-01-10",
+      "transAmount": 250.91,
+      "description": "Medicine Purchase"
+    },
+    {
+      "id": 203,
+      "transDate": "2018-09-10",
+      "transAmount": 50.19,
+      "description": "Clinic Visit"
+    },
+    {
+      "id": 204,
+      "transDate": "2018-12-10",
+      "transAmount": 150,
+      "description": "Thyroid test"
+    },
+    {
+      "id": 205,
+      "transDate": "2018-12-03",
+      "transAmount": 250,
+      "description": "Dental Surgeon"
+    }
+  ],
+  "medBuddy": [
+    {
+      "id": 101,
+      "description": "medicine",
+      "imageRef": "assets/images/medicine"
+    },
+    {
+      "id": 102,
+      "description": "Test",
+      "imageRef": "assets/images/tests"
+    },
+    {
+      "id": 103,
+      "description": "HealthCheckup",
+      "imageRef": "assets/images/checkup"
+    }
+  ]
+}

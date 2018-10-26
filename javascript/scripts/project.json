@@ -1,0 +1,51 @@
+{
+  "project": [
+    {
+      "id": 101,
+      "projectName": "Purified Drinking Water for Corporation School",
+      "imageRef": "assets/images/medicine",
+      "projectCost": 50000,
+      "amountCollected": 25000,
+      "dateOfCompletion": "20-12-2018"
+    },
+    {
+      "id": 102,
+      "projectName": "Text books for Corporation School",
+      "imageRef": "assets/images/medicine",
+      "projectCost": 100000,
+      "amountCollected": 38000,
+      "dateOfCompletion": "20-12-2020"
+    },
+    {
+      "id": 103,
+      "projectName": "Medical Checkup for Corporation School",
+      "imageRef": "assets/images/medicine",
+      "projectCost": 300000,
+      "amountCollected": 138000,
+      "dateOfCompletion": "20-12-2019"
+    }
+  ],
+
+  "sponsor": [
+    {
+      "sponsorName": "Kumar",
+      "email": "kumar@gmail.com",
+      "amount": 30000.0
+    },
+    {
+      "sponsorName": "Raja",
+      "email": "raja@gmail.com",
+      "amount": 130000.0
+    },
+    {
+      "sponsorName": "Mani",
+      "email": "mani@gmail.com",
+      "amount": 15000.0
+    },
+    {
+      "sponsorName": "Sakthi",
+      "email": "sakthi@gmail.com",
+      "amount": 50000.0
+    }
+  ]
+}
